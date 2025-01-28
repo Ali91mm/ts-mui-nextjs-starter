@@ -16,6 +16,13 @@
                 "url": "www.shamiltranslation.com",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Consulting",
+                "url": "https://www.shamilconsulting.com",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     }
