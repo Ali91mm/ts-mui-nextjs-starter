@@ -25,7 +25,7 @@ sections:
         title: Shamil Consulting
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Shamil Group logos-03.png
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
