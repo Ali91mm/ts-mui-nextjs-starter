@@ -44,7 +44,7 @@ sections:
         title: Avents Plus
         image:
           type: Image
-          url: /images/Avents plus logo.png
+          url: /images/logo Artboard 2@360x-100.jpg
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
