@@ -32,7 +32,7 @@ sections:
           and advisory.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Visit Translation Site
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Avents Plus
