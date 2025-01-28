@@ -40,7 +40,7 @@ sections:
         title: Avents Plus
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Avents plus logo.png
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
