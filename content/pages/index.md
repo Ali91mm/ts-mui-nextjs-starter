@@ -14,11 +14,7 @@ sections:
           type: Image
           url: /images/Shamil Group logos-02.png
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "We provide accurate and certified translation services for legal, corporate, and personal documents. Our expert interpreters are available for conferences, business meetings, and events in multiple languages.\n\U0001F539 Certified document translation\n\U0001F539 Simultaneous and consecutive interpretation\n\U0001F539 Legal and business translations\n\U0001F539 Translation services for expats (licenses, legal documents, etc.)\n"
         actions:
           - type: Button
             label: Read the Docs
