@@ -54,6 +54,6 @@ sections:
           detail so you can focus on what matters most.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Visit Event Site
             url: 'https://www.aventsplus.com'
 ---
