@@ -33,7 +33,7 @@ sections:
         actions:
           - type: Button
             label: Visit Translation Site
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.shamilconsulting.com'
       - type: Card
         title: Avents Plus
         image:
