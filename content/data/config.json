@@ -23,6 +23,13 @@
                 "url": "https://www.shamilconsulting.com",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Events Managment",
+                "url": "https://www.aventsplus.com",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     }
