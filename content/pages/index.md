@@ -17,7 +17,7 @@ sections:
         text: "We provide accurate and certified translation services for legal, corporate, and personal documents. Our expert interpreters are available for conferences, business meetings, and events in multiple languages.\n\U0001F539 Certified document translation\n\U0001F539 Simultaneous and consecutive interpretation\n\U0001F539 Legal and business translations\n\U0001F539 Translation services for expats (licenses, legal documents, etc.)\n"
         actions:
           - type: Button
-            label: Read the Docs
+            label: Visit Translation Site
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Shamil Consulting
