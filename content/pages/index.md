@@ -32,7 +32,7 @@ sections:
           and advisory.
         actions:
           - type: Button
-            label: Visit Translation Site
+            label: Visit Consulting Site
             url: 'https://www.shamilconsulting.com'
       - type: Card
         title: Avents Plus
