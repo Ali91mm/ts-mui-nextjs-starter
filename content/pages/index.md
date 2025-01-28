@@ -10,7 +10,7 @@ sections:
         title: Shamil Translation
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Shamil Group logos-02.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
