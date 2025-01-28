@@ -14,7 +14,13 @@ sections:
           type: Image
           url: /images/Shamil Group logos-02.png
           altText: First item image
-        text: "We provide accurate and certified translation services for legal, corporate, and personal documents. Our expert interpreters are available for conferences, business meetings, and events in multiple languages.\n\U0001F539 Certified document translation\n\U0001F539 Simultaneous and consecutive interpretation\n\U0001F539 Legal and business translations\n\U0001F539 Translation services for expats (licenses, legal documents, etc.)\n"
+        text: >
+          We provide accurate and certified translation services for legal,
+          corporate, and personal documents. Our expert interpreters are
+          available for conferences, business meetings, and events in multiple
+          languages. We provide Certified document translation, Simultaneous and
+          consecutive interpretation, Legal and business translations and
+          Translation services for expats (licenses, legal documents, etc.)
         actions:
           - type: Button
             label: Visit Translation Site
