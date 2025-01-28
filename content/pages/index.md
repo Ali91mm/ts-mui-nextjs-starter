@@ -25,11 +25,7 @@ sections:
           type: Image
           url: /images/Shamil Group logos-03.png
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "We assist businesses in legal, financial, and operational matters to ensure seamless growth.\n\U0001F539 Business setup and legal consultancy\n\U0001F539 Compliance and regulatory guidance\n\U0001F539 Market research and advisory\n"
         actions:
           - type: Button
             label: Read the Docs
