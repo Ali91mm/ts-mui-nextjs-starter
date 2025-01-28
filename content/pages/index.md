@@ -18,7 +18,7 @@ sections:
         actions:
           - type: Button
             label: Visit Translation Site
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.shamiltranslation.com'
       - type: Card
         title: Shamil Consulting
         image:
