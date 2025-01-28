@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: CardsSection
     title: Shamil Group
-    subtitle: Section subtitle here
+    subtitle: >-
+      Empowering Businesses with Certified Translation, Consulting, and Event
+      Management Solutions
     items:
       - type: Card
         title: Shamil Translation
@@ -13,14 +15,16 @@ sections:
           url: /images/Shamil Group logos-02.png
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          We provide accurate and certified translation services for legal,
+          corporate, and personal documents. Our expert interpreters are
+          available for conferences, business meetings, and events in multiple
+          languages. We provide Certified document translation, Simultaneous and
+          consecutive interpretation, Legal and business translations and
+          Translation services for expats (licenses, legal documents, etc.)
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Visit Translation Site
+            url: 'https://www.shamiltranslation.com'
       - type: Card
         title: Shamil Consulting
         image:
@@ -28,27 +32,28 @@ sections:
           url: /images/Shamil Group logos-03.png
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          We assist businesses in legal, financial, and operational matters to
+          ensure seamless growth. Contact us for Business setup and legal
+          consultancy, Compliance and regulatory guidance and Market research
+          and advisory.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Visit Consulting Site
+            url: 'https://www.shamilconsulting.com'
       - type: Card
         title: Avents Plus
         image:
           type: Image
-          url: /images/Avents plus logo.png
+          url: /images/logo Artboard 2@360x-100.jpg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          We provide a complete range of event management services to ensure
+          your conferences, exhibitions, and meetings are a success.
+
+          From professional equipment to venue reservations, we handle every
+          detail so you can focus on what matters most.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Visit Event Site
+            url: 'https://www.aventsplus.com'
 ---
