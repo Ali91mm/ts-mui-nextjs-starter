@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: CardsSection
-    title: Cards Section Component
+    title: Shamil Group
     subtitle: Section subtitle here
     items:
       - type: Card
