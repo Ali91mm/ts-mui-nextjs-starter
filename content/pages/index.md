@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: CardsSection
     title: Shamil Group
-    subtitle: Section subtitle here
+    subtitle: >-
+      Empowering Businesses with Certified Translation, Consulting, and Event
+      Management Solutions
     items:
       - type: Card
         title: Shamil Translation
