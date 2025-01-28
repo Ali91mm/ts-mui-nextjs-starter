@@ -25,7 +25,11 @@ sections:
           type: Image
           url: /images/Shamil Group logos-03.png
           altText: Second item image
-        text: "We assist businesses in legal, financial, and operational matters to ensure seamless growth.\n\U0001F539 Business setup and legal consultancy\n\U0001F539 Compliance and regulatory guidance\n\U0001F539 Market research and advisory\n"
+        text: >
+          We assist businesses in legal, financial, and operational matters to
+          ensure seamless growth. Contact us for Business setup and legal
+          consultancy, Compliance and regulatory guidance and Market research
+          and advisory.
         actions:
           - type: Button
             label: Read the Docs
