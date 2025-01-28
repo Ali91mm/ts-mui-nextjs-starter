@@ -2,39 +2,15 @@
 title: Home
 type: Page
 sections:
-  - type: HeroSection
-    title: Shamil Group
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
-    image:
-      type: Image
-      url: /images/hero.svg
-      altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Shamil Group
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Shamil Translation
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Shamil Group logos-02.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -46,10 +22,10 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Shamil Consulting
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Shamil Group logos-03.png
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -61,10 +37,10 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Avents Plus
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Avents plus logo.png
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
