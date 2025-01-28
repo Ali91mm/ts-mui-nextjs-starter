@@ -7,7 +7,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Shamil Translation
         image:
           type: Image
           url: /images/nextjs.svg
