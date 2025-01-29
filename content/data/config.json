@@ -1,36 +1,4 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
-    "header": {
-        "title": "Shamil Group Landing Page",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Tanslation",
-                "url": "www.shamiltranslation.com",
-                "underline": "always",
-                "color": "primary"
-            },
-            {
-                "type": "Link",
-                "label": "Consulting",
-                "url": "https://www.shamilconsulting.com",
-                "underline": "always",
-                "color": "primary"
-            },
-            {
-                "type": "Link",
-                "label": "Events Managment",
-                "url": "https://www.aventsplus.com",
-                "underline": "always",
-                "color": "primary"
-            }
-        ]
-    }
+    "favicon": "/images/favicon.svg"
 }
